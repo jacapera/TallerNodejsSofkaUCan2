@@ -1,0 +1,4 @@
+__________________
+COMANDOS CONSOLA:
+npx express-generator
+npm install nodemon --save-dev
